@@ -1,5 +1,5 @@
 # Nike Redesigned Website 
-ReDesigned Nike Website.
+Re-designed Nike Website. 
 <br>
 *Built With*
 - **React**
