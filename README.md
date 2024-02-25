@@ -1,8 +1,19 @@
-# React + Vite
+# Nike Redesigned Website 
+Expense Tracker Web Application. Manage, Visualise and track all your Expenses in one place.
+<br>
+*Built With*
+- **React**
+- **TailwindCSS**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## To run this project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```javascript
+   npm install  //To install dependencies
+   npm start    // To launch it
+```
+## TO ACCESS THE SITE
+[Visit Here >> ](https://nike-redesigned.vercel.app/)
+
+
+![Nike ReDesigned](https://github.com/techy-savant/Expense-Tracker/assets/108519575/6c3a606f-dc9f-4c76-99b7-3c1df1b95edc)
