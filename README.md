@@ -16,5 +16,5 @@ ReDesigned Nike Website.
 [Visit Here >> ](https://nike-redesigned.vercel.app/)
 
 
-![Nike ReDesigned Image](https://github.com/techy-savant/Nike-Website/assets/108519575/512f6d22-3682-4b8c-9a19-89906b0ee015)
+![Nike ReDesigned Image](https://vercel.com/_next/image?url=%2Fapi%2Fscreenshot%3Fdark%3D0%26deploymentId%3Ddpl_5t31P2ApDuS5k54VdrXxLN9S6GWf%26withStatus%3D1&w=640&q=75&dpl=dpl_EuyA4fyP144YisKLhGH7EAeHAb5t)
 
