@@ -1,5 +1,5 @@
 # Nike Redesigned Website 
-Expense Tracker Web Application. Manage, Visualise and track all your Expenses in one place.
+ReDesigned Nike Website.
 <br>
 *Built With*
 - **React**
@@ -16,4 +16,5 @@ Expense Tracker Web Application. Manage, Visualise and track all your Expenses i
 [Visit Here >> ](https://nike-redesigned.vercel.app/)
 
 
-![Nike ReDesigned](https://github.com/techy-savant/Expense-Tracker/assets/108519575/6c3a606f-dc9f-4c76-99b7-3c1df1b95edc)
+![Nike ReDesigned Image](https://github.com/techy-savant/Nike-Website/assets/108519575/512f6d22-3682-4b8c-9a19-89906b0ee015)
+
