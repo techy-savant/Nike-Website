@@ -6,7 +6,7 @@ import { useState } from "react";
 const Nav = () => {
   let [open, setOpen] = useState(false);
   return (
-    <header className="padding-x py-8 fixed z-20 w-full max-md:bg-white">
+    <header className="padding-x py-8 fixed z-20 w-full bg-white shadow-md">
       {/* <nav className="md:flex justify-between items-center max-container">
         <a href="/">
           <img src={headerLogo} alt="logo" width={130} height={29} />
@@ -48,7 +48,7 @@ const Nav = () => {
 
         <ul
           className={` md:flex md:items-center md:mr-10 gap-8 md:pb-0 pb-12  max-md:bg-slate-950 max-md:absolute left-0 max-md:w-full max-md:pl-9 transition-all duration-500 ease-in ${
-            open ? "top-20" : "top-[-490px]"
+            open ? "top-20 opacity-100" : "top-[-490px] max-md:opacity-0"
           }`}
         >
           {navLinks.map((item) => (
