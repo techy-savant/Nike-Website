@@ -6,7 +6,7 @@ import { useState } from "react";
 const Nav = () => {
   let [open, setOpen] = useState(false);
   return (
-    <header className="padding-x py-8 absolute z-20 w-full">
+    <header className="padding-x py-8 fixed z-20 w-full max-md:bg-white">
       {/* <nav className="md:flex justify-between items-center max-container">
         <a href="/">
           <img src={headerLogo} alt="logo" width={130} height={29} />
